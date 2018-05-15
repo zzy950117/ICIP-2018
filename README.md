@@ -1,1 +1,1 @@
-# ICIP-2018
+This repository includes supplementary material for our accepted paper on ICIP-2018
